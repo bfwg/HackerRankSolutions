@@ -1,2 +1,2 @@
 # Braces
-![alt tag](https://github.com/bfwg/HackerRankSolutions/blob/master/SAP_Interview/Braces/braces.png)
+![alt tag](https://raw.githubusercontent.com/bfwg/HackerRankSolutions/master/SAP_Interview/Braces/braces.png)
