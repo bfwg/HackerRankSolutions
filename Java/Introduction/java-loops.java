@@ -11,7 +11,6 @@ public class Solution {
         int T = input.nextInt();
         /* Enter your code here. Read input from STDIN. Print output to STDOUT. Your class should be named Solution. */
         for (int i=0;i<T;i++) {
-            //System.out.println("a");
             int a = input.nextInt();
             int b = input.nextInt();
             int N = input.nextInt();
