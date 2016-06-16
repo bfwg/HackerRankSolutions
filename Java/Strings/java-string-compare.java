@@ -11,9 +11,10 @@ public class Solution {
         Scanner in = new Scanner(System.in);
         String s = in.nextLine();
         int n = in.nextInt();
-        String[] sArr = new String[s.length() - 2];
-        for(int i=0; i<s.length() - 2; i++) {
-            sArr[i] = s.substring(i, i+3);
+        int arrLen = s.length() - n + 1;
+        String[] sArr = new String[arrLen];
+        for(int i=0; i<arrLen; i++) {
+            sArr[i] = s.substring(i, i+n);
         }
         Arrays.sort(sArr);
         
